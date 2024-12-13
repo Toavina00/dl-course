@@ -1,2 +1,3 @@
 # dl-course
-Deep learning assignements
+Deep learning assignements, MISA, University of Antananarivo
+
